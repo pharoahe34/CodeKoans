@@ -5,8 +5,12 @@ ________________________________
 
 ## Intro
 
-The study of koan is often used to promote learning.
-The goal of a koan is not the answer, but thinking about the question
+The study of koan is often used to promote learning of new language.
+
+Focus on Test Driven Development (TDD):
+
+The goal of a koan is not the answer, but thinking about the question.
+The idea is that, through the process of getting the tests to pass, the participant will learn the structure, syntax, and core features of the language.
 
 ## Kōans list
 
