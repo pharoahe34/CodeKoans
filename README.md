@@ -1,15 +1,12 @@
-# Kōans
+# Learning Programming Languages with Kōans
 
-![alt text](koansornotkoans.jpg "kōans")
-________________________________
+![koans_image](koans_image.jpg "kōans")
 
 ## Intro
 
-The study of koan is often used to promote learning of new language.
+The name of koans are derived from Buddhist life lessons.
+The study of koans is often used to promote learning of new language.
 
-Focus on Test Driven Development (TDD):
-
-The goal of a koan is not the answer, but thinking about the question.
 The idea is that, through the process of getting the tests to pass, the participant will learn the structure, syntax, and core features of the language.
 
 ## Kōans list
@@ -168,7 +165,6 @@ https://github.com/arkency/reactjs_koans
 ### Ruby
 
 - [http://rubykoans.com/](http://rubykoans.com/)
-- [https://github.com/neo/ruby_koans](https://github.com/neo/ruby_koans)
 - [https://github.com/sathish316/metaprogramming_koans](https://github.com/sathish316/metaprogramming_koans) 
 
 ### SAP ABAP
